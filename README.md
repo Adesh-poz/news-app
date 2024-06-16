@@ -1,5 +1,5 @@
-# News App
-MyNewsApp is a Flutter-based mobile application that enables users to stay updated with real-time news from various categories. Users can browse articles, mark favorites, and read detailed news content seamlessly.
+# News Now App
+News Now is a Flutter-based mobile application that enables users to stay updated with real-time news from various categories. Users can browse articles, mark favorites, and read detailed news content seamlessly.
 
 ## Features
 
@@ -12,12 +12,11 @@ MyNewsApp is a Flutter-based mobile application that enables users to stay updat
 ## Installation
 To run this app locally, follow these steps:
 
-
 `git clone https://github.com/Adesh-poz/news-app.git`
 
 Navigate to Project Directory:
 
-`cd MyNewsApp`
+`cd news-app`
 
 Install Dependencies:
 
