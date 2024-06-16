@@ -22,6 +22,10 @@ Install Dependencies:
 
 `flutter pub get`
 
+Create .env file in the root directory and inside store your own newsapi.org API Key in this format:
+
+`NEWSAPIKEY=your-api-key`
+
 Run the App:
 
 `flutter run`
