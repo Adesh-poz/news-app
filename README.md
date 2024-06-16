@@ -28,6 +28,9 @@ Run the App:
 
 Ensure you have Flutter installed and configured on your system. For detailed steps on setting up Flutter, refer to the official Flutter documentation.
 
+## Output
+A released APK of this app is stored in the `output apk` directory with the name `news-now.apk`.
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
